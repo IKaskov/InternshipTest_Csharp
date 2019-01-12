@@ -1,0 +1,22 @@
+E:\Downloads\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.deps.json
+E:\Downloads\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.json
+E:\Downloads\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.dev.json
+E:\Downloads\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.dll
+E:\Downloads\InternshipTest Csharp\bin\Debug\netcoreapp2.1\internshiptest.pdb
+E:\Downloads\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.csprojAssemblyReference.cache
+E:\Downloads\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.csproj.CoreCompileInputs.cache
+E:\Downloads\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfoInputs.cache
+E:\Downloads\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfo.cs
+E:\Downloads\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.dll
+E:\Downloads\InternshipTest Csharp\obj\Debug\netcoreapp2.1\internshiptest.pdb
+E:\Downloads\InternshipTest_Csharp\bin\Debug\netcoreapp2.1\internshiptest.deps.json
+E:\Downloads\InternshipTest_Csharp\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.json
+E:\Downloads\InternshipTest_Csharp\bin\Debug\netcoreapp2.1\internshiptest.runtimeconfig.dev.json
+E:\Downloads\InternshipTest_Csharp\bin\Debug\netcoreapp2.1\internshiptest.dll
+E:\Downloads\InternshipTest_Csharp\bin\Debug\netcoreapp2.1\internshiptest.pdb
+E:\Downloads\InternshipTest_Csharp\obj\Debug\netcoreapp2.1\internshiptest.csprojAssemblyReference.cache
+E:\Downloads\InternshipTest_Csharp\obj\Debug\netcoreapp2.1\internshiptest.csproj.CoreCompileInputs.cache
+E:\Downloads\InternshipTest_Csharp\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfoInputs.cache
+E:\Downloads\InternshipTest_Csharp\obj\Debug\netcoreapp2.1\internshiptest.AssemblyInfo.cs
+E:\Downloads\InternshipTest_Csharp\obj\Debug\netcoreapp2.1\internshiptest.dll
+E:\Downloads\InternshipTest_Csharp\obj\Debug\netcoreapp2.1\internshiptest.pdb
