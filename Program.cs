@@ -2,6 +2,7 @@
 using InternshipTest.Person;
 using InternshipTest.Institution;
 using InternshipTest.Institution.InterLink;
+using internshiptest;
 
 namespace InternshipTest
 {
@@ -10,7 +11,12 @@ namespace InternshipTest
         static void Main(string[] args)
         {
             //var s = new Student("Alex");
-           
+
+            //IStrategy strategy = new GetStudentsFromDB();
+            //University university = new University("CH.U.I.");
+            //university.Strategy = strategy;
+            //university.AddStudent();
+
             University university = new University("CH.U.I.");
             university.AddStudent(new Student("Andrew Kostenko",new Knowledge(1111)));
             university.AddStudent(new Student("Julia Veselkina", new Knowledge(160)));

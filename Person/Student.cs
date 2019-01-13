@@ -2,15 +2,14 @@ namespace InternshipTest.Person
 {
     public class Student
     {
-        
         public Student(string name)
         {
             //TODO: Implementation is needed
             Name = name;
         }
-        
+
         public Student(string name, Knowledge knowledge)
-            :this(name)
+            : this(name)
         {
             Knowledge = knowledge;
         }
