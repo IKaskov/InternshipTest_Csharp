@@ -1,3 +1,4 @@
+using internshiptest;
 using InternshipTest.Person;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +8,8 @@ namespace InternshipTest.Institution
     public class University
     {
         List<Student> Students = new List<Student>();
+
+        private IStrategy strategy;
 
         public University(string name)
         {
@@ -26,6 +29,18 @@ namespace InternshipTest.Institution
         {
             Students.AddRange(students);
         }
+        
+        public void AddStudent()
+        {
+            Students.AddRange(strategy.GetStudents());
+        }
+
+        public IStrategy Strategy { set { strategy = value; } }
+
+        //public void SetStrategy(IStrategy strategy)
+        //{
+        //    this.strategy = strategy;
+        //}
 
         public List<Student> GetStudentsWithEnoughtKnowledge()
         {
